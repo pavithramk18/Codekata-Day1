@@ -47,7 +47,7 @@
 
 // To find the length of the String-->Returns the number of character in the enclosed string
 
-//Length of a string starts from 1 and it will also includes space also a character while taking the length
+//Length of a strings starts from 1 and it will also includes space also a character while taking the length
 
 
 // var str= "Pavithra ";
