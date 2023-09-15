@@ -58,7 +58,15 @@
 
 
 
-// //To change to upper case
+// //To change to upper case-->Converts the entire string to Upper case
 
-// //To change to lower case
+// var upcase= "uppercase";
+// console.log(upcase.toUpperCase());    UPPERCASE
+
+
+// //To change to lower case --->Converts the entire string to Lower case
+
+// var lowcase = "LOWERCASE";
+// console.log(lowcase.toLowerCase());   lowercase 
+
 
